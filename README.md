@@ -7,7 +7,7 @@ This repository contains **R** scripts for analyzing Growth Balance Analysis (GB
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 Synechocystis_plots/
@@ -21,7 +21,7 @@ Synechocystis_plots/
 
 ---
 
-## ⚙️ Usage
+## ⚙ Usage
 
 1. **Clone** the repo:
    ```bash
@@ -40,11 +40,16 @@ afterwards, check the output in Results
 3. **Customize**: edit any script to point at your own data paths or tweak axis limits, colors, and annotations.
 
 ---
+##  Citation
+
+If you use these scripts in your work, please cite the associated paper:
+
+> Ghaffarinasab, S., Lercher, M. J., & Dourado, H. (2023). Growth balance analysis models of cyanobacteria for understanding resource allocation strategies. bioRxiv, 2023-04.
 
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
