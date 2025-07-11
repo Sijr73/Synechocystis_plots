@@ -1,4 +1,4 @@
-# Code and Data for the Research Article onCyanobacterial resource allocation strategies explained by Growth Balance Analysis
+# Code and Data for the Research Article on Cyanobacterial resource allocation strategies explained by Growth Balance Analysis
 
 This repository contains **R** scripts for analyzing Growth Balance Analysis (GBA) models of *Synechocystis sp. PCC 6803* and generating publication-quality plots. The workflows cover:
 
